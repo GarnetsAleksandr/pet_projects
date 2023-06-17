@@ -1,5 +1,5 @@
 # [Дашборд: Linkedin- Аналз вакансий аналитиков данных в европе](https://public.tableau.com/app/profile/gar5891/viz/Linkedin_16859804785410/Linkedin?publish=yes)
-
+# [Ноутбук](https://github.com/GarnetsAleksandr/pet_projects/blob/main/Linkedin/Linkedin.ipynb)
 # Цель
 Визуализировать информацию о рынке вакансий для аналитиков в Европе
 
